@@ -12,7 +12,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
     {
         [SerializeField] private bool m_IsWalking;
         [SerializeField] private float m_WalkSpeed;
-        [SerializeField] private float m_RunSpeed;
+		[SerializeField] private float m_RunSpeed;
         [SerializeField] [Range(0f, 1f)] private float m_RunstepLenghten;
         [SerializeField] private float m_JumpSpeed;
         [SerializeField] private float m_StickToGroundForce;
@@ -41,9 +41,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private float m_NextStep;
         private bool m_Jumping;
         private AudioSource m_AudioSource;
-
-		//custom
-		private Vector2 eulerRotationToApply;
 
         // Use this for initialization
         private void Start()
@@ -239,8 +236,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void RotateView()
         {
-			m_MouseLook.LookRotation (transform, m_Camera.transform, eulerRotationToApply);
-			eulerRotationToApply = Vector2.zero;
+            m_MouseLook.LookRotation (transform, m_Camera.transform);
         }
 
 
@@ -259,9 +255,5 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
             body.AddForceAtPosition(m_CharacterController.velocity*0.1f, hit.point, ForceMode.Impulse);
         }
-
-		public void ApplyRotationOnCamera(Vector2 eulerRotation){
-			eulerRotationToApply = eulerRotation;
-		}
-	}
+    }
 }

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 36be1a6fd19a3ba409611c129958b723
+guid: 630b4e8b38b21f144b69e026cc2d40da
 timeCreated: 1509551341
 licenseType: Free
 ModelImporter:
@@ -35,7 +35,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tex_0009_1.dds
-    second: {fileID: 2100000, guid: 9a6c012ac195c3a49b4abd39567e89d5, type: 2}
+    second: {fileID: 2100000, guid: bb24f0140b409554a8479b420d52c4f1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -78,6 +78,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
