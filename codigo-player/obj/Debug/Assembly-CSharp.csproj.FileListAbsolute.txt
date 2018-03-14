@@ -1,3 +1,4 @@
+C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\Assembly-CSharp.dll
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\Assembly-CSharp.pdb
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\nunit.framework.dll
@@ -63,6 +64,5 @@ C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEditor.VR.xml
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp.dll
 C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp.pdb

@@ -54,6 +54,8 @@
      <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
      <Compile Include="Assets\Menu\MENU.cs" />
      <Compile Include="Assets\Scripts\NewTest\Atirar.cs" />
+     <Compile Include="Assets\Scripts\NewTest\Coletaveis.cs" />
+     <Compile Include="Assets\Scripts\NewTest\Controle.cs" />
      <Compile Include="Assets\Scripts\NewTest\Enemy.cs" />
      <Compile Include="Assets\Scripts\NewTest\Jogador.cs" />
      <Compile Include="Assets\Scripts\NewTest\Municao.cs" />

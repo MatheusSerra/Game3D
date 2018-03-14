@@ -43,7 +43,7 @@ public class Enemy : MonoBehaviour {
 	void Atacar(){
 		if (podeAtacar == true) {
 			StartCoroutine ("TempoDeAtaque");
-			player.GetComponent<Jogador> ().VIDA -= 20;
+			player.GetComponent<Controle> ().VidaAtual -= 40;
 		}
 
 	}

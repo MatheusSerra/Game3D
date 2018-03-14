@@ -62,6 +62,5 @@ C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEditor.VR.xml
 C:\Users\Mathes\Documents\North\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Mathes\Documents\North\obj\Debug\Assembly-CSharp-firstpass.pdb
